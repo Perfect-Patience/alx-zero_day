@@ -1,1 +1,1 @@
-My second readme file for git project
+My second readme file for git project updated.
